@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph label="network_20230104431347713" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML"  directed="1">
+  <att name="documentVersion" value="1.1"/>
+  <att name="networkMetadata">
+    <rdf:RDF>
+      <rdf:Description rdf:about="http://www.cytoscape.org/">
+        <dc:type>Protein-Protein Interaction</dc:type>
+        <dc:description>N/A</dc:description>
+        <dc:identifier>N/A</dc:identifier>
+        <dc:date>2023-01-04 04:35:35</dc:date>
+        <dc:title>network_20230104431347713</dc:title>
+        <dc:source>http://www.cytoscape.org/</dc:source>
+        <dc:format>Cytoscape-XGMML</dc:format>
+      </rdf:Description>
+    </rdf:RDF>
+  </att>
+  <att type="string" name="backgroundColor" value="#ffffff"/>
+  <att type="real" name="GRAPH_VIEW_ZOOM" value="0.15368583916382564"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_X" value="829.1572799682617"/>
+  <att type="real" name="GRAPH_VIEW_CENTER_Y" value="1193.0009765625"/>
+  <att type="boolean" name="NODE_SIZE_LOCKED" value="true"/>
+  <att type="string" name="__layoutAlgorithm" value="kamada-kawai-noweight" cy:hidden="true"/>
+  <node label="69" id="-322">
+    <att type="real" name="Conservation" value="0.9419"/>
+    <att type="real" name="CumulativeMI" value="12.432335"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="69"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.000030517578125" x="10.0" y="1467.2344970703125" fill="#74b2c7" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="69" cy:borderLineType="solid"/>
+  </node>
+  <node label="5" id="-121">
+    <att type="real" name="Conservation" value="1.884"/>
+    <att type="real" name="CumulativeMI" value="27.213556"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="5"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="931.2656860351562" y="1291.9715576171875" fill="#9b8090" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="5" cy:borderLineType="solid"/>
+  </node>
+  <node label="43" id="-118">
+    <att type="real" name="Conservation" value="1.3323"/>
+    <att type="real" name="CumulativeMI" value="42.795963"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="43"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1452.947998046875" y="588.8507080078125" fill="#849db0" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="43" cy:borderLineType="solid"/>
+  </node>
+  <node label="37" id="-117">
+    <att type="real" name="Conservation" value="0.8372"/>
+    <att type="real" name="CumulativeMI" value="31.834008"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="37"/>
+    <graphics type="ELLIPSE" h="34.9998779296875" w="35.0" x="1461.8958740234375" y="2039.0213012695312" fill="#6fb7ce" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="37" cy:borderLineType="solid"/>
+  </node>
+  <node label="34" id="-472">
+    <att type="real" name="Conservation" value="0.4922"/>
+    <att type="real" name="CumulativeMI" value="35.11334"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="34"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1333.24365234375" y="1773.391845703125" fill="#61c9e2" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="34" cy:borderLineType="solid"/>
+  </node>
+  <node label="4" id="-471">
+    <att type="real" name="Conservation" value="3.1072"/>
+    <att type="real" name="CumulativeMI" value="0.0"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="4"/>
+    <graphics type="ELLIPSE" h="35.0" w="34.999999046325684" x="10.000000476837158" y="2376.001953125" fill="#cd4048" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="4" cy:borderLineType="solid"/>
+  </node>
+  <node label="38" id="-470">
+    <att type="real" name="Conservation" value="0.7302"/>
+    <att type="real" name="CumulativeMI" value="52.114209"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="38"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1373.2796630859375" y="1563.2447509765625" fill="#6bbdd4" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="38" cy:borderLineType="solid"/>
+  </node>
+  <node label="8" id="-114">
+    <att type="real" name="Conservation" value="2.7756"/>
+    <att type="real" name="CumulativeMI" value="70.312647"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="8"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="591.3299560546875" y="1373.145751953125" fill="#bf515b" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="8" cy:borderLineType="solid"/>
+  </node>
+  <node label="47" id="-112">
+    <att type="real" name="Conservation" value="2.5486"/>
+    <att type="real" name="CumulativeMI" value="0.0"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="47"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="110.0" y="2376.001953125" fill="#b65d69" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="47" cy:borderLineType="solid"/>
+  </node>
+  <node label="51" id="-237">
+    <att type="real" name="Conservation" value="0.524"/>
+    <att type="real" name="CumulativeMI" value="52.762003"/>
+    <att type="string" name="SecondaryStructure" value="T"/>
+    <att type="string" name="canonicalName" value="51"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1206.535888671875" y="403.1943359375" fill="#63c7e0" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="51" cy:borderLineType="solid"/>
+  </node>
+  <node label="9" id="-465">
+    <att type="real" name="Conservation" value="1.0771"/>
+    <att type="real" name="CumulativeMI" value="107.721272"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="9"/>
+    <graphics type="ELLIPSE" h="35.0" w="34.999969482421875" x="528.3391265869141" y="1453.168701171875" fill="#79aabf" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="9" cy:borderLineType="solid"/>
+  </node>
+  <node label="36" id="-233">
+    <att type="real" name="Conservation" value="1.8187"/>
+    <att type="real" name="CumulativeMI" value="31.50601"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="36"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="422.9181823730469" y="1641.25390625" fill="#988394" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="36" cy:borderLineType="solid"/>
+  </node>
+  <node label="3" id="-459">
+    <att type="real" name="Conservation" value="2.0951"/>
+    <att type="real" name="CumulativeMI" value="13.592085"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="3"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="207.3617706298828" y="1579.8782958984375" fill="#a37583" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="3" cy:borderLineType="solid"/>
+  </node>
+  <node label="6" id="-231">
+    <att type="real" name="Conservation" value="1.9534"/>
+    <att type="real" name="CumulativeMI" value="187.724645"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="6"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="485.627197265625" y="1289.7088623046875" fill="#9d7c8c" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="6" cy:borderLineType="solid"/>
+  </node>
+  <node label="13" id="-454">
+    <att type="real" name="Conservation" value="0.7976"/>
+    <att type="real" name="CumulativeMI" value="41.384532"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="13"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="877.3401489257812" y="1607.056884765625" fill="#6eb9d0" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="13" cy:borderLineType="solid"/>
+  </node>
+  <node label="23" id="-104">
+    <att type="real" name="Conservation" value="1.027"/>
+    <att type="real" name="CumulativeMI" value="77.220082"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="23"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1401.576904296875" y="1865.9119873046875" fill="#77adc2" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="23" cy:borderLineType="solid"/>
+  </node>
+  <node label="46" id="-227">
+    <att type="real" name="Conservation" value="1.3881"/>
+    <att type="real" name="CumulativeMI" value="79.14017"/>
+    <att type="string" name="SecondaryStructure" value="S"/>
+    <att type="string" name="canonicalName" value="46"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1394.9351806640625" y="767.41455078125" fill="#869aad" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="46" cy:borderLineType="solid"/>
+  </node>
+  <node label="42" id="-224">
+    <att type="real" name="Conservation" value="1.5975"/>
+    <att type="real" name="CumulativeMI" value="74.904749"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="42"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1366.6942138671875" y="1001.5828247070312" fill="#8f8fa1" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="42" cy:borderLineType="solid"/>
+  </node>
+  <node label="22" id="-225">
+    <att type="real" name="Conservation" value="0.7752"/>
+    <att type="real" name="CumulativeMI" value="36.897822"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="22"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1364.63623046875" y="1924.97412109375" fill="#6dbad1" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="22" cy:borderLineType="solid"/>
+  </node>
+  <node label="53" id="-447">
+    <att type="real" name="Conservation" value="0.7761"/>
+    <att type="real" name="CumulativeMI" value="62.220839"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="53"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="763.0556030273438" y="655.4560546875" fill="#6dbad1" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="53" cy:borderLineType="solid"/>
+  </node>
+  <node label="24" id="-91">
+    <att type="real" name="Conservation" value="2.2978"/>
+    <att type="real" name="CumulativeMI" value="44.188437"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="24"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1452.63427734375" y="1890.658447265625" fill="#ac6a77" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="24" cy:borderLineType="solid"/>
+  </node>
+  <node label="49" id="-89">
+    <att type="real" name="Conservation" value="0.9198"/>
+    <att type="real" name="CumulativeMI" value="68.396677"/>
+    <att type="string" name="SecondaryStructure" value="S"/>
+    <att type="string" name="canonicalName" value="49"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1258.4530029296875" y="646.2828369140625" fill="#73b3c9" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="49" cy:borderLineType="solid"/>
+  </node>
+  <node label="59" id="-438">
+    <att type="real" name="Conservation" value="0.7552"/>
+    <att type="real" name="CumulativeMI" value="26.989211"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="59"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="868.5584106445312" y="185.10475158691406" fill="#6cbbd2" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="59" cy:borderLineType="solid"/>
+  </node>
+  <node label="14" id="-86">
+    <att type="real" name="Conservation" value="1.0291"/>
+    <att type="real" name="CumulativeMI" value="17.737419"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="14"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="990.469482421875" y="1598.9976806640625" fill="#77adc2" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="14" cy:borderLineType="solid"/>
+  </node>
+  <node label="40" id="-431">
+    <att type="real" name="Conservation" value="1.3657"/>
+    <att type="real" name="CumulativeMI" value="7.006434"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="40"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="185.5294952392578" y="1751.071533203125" fill="#859bae" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="40" cy:borderLineType="solid"/>
+  </node>
+  <node label="28" id="-427">
+    <att type="real" name="Conservation" value="0.4362"/>
+    <att type="real" name="CumulativeMI" value="115.841791"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="28"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="782.6809692382812" y="1499.7918701171875" fill="#5fcce5" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="28" cy:borderLineType="solid"/>
+  </node>
+  <node label="25" id="-203">
+    <att type="real" name="Conservation" value="0.706"/>
+    <att type="real" name="CumulativeMI" value="31.888728"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="25"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1467.4493408203125" y="1839.510009765625" fill="#6abed5" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="25" cy:borderLineType="solid"/>
+  </node>
+  <node label="30" id="-421">
+    <att type="real" name="Conservation" value="1.3035"/>
+    <att type="real" name="CumulativeMI" value="34.115221"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="30"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1051.3056640625" y="1739.0184326171875" fill="#839fb2" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="30" cy:borderLineType="solid"/>
+  </node>
+  <node label="1" id="-193">
+    <att type="real" name="Conservation" value="1.8156"/>
+    <att type="real" name="CumulativeMI" value="138.868133"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="1"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="337.34521484375" y="1379.2784423828125" fill="#988494" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="1" cy:borderLineType="solid"/>
+  </node>
+  <node label="17" id="-307">
+    <att type="real" name="Conservation" value="0.5806"/>
+    <att type="real" name="CumulativeMI" value="33.394298"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="17"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1639.4176025390625" y="1887.10595703125" fill="#65c4dd" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="17" cy:borderLineType="solid"/>
+  </node>
+  <node label="2" id="-308">
+    <att type="real" name="Conservation" value="1.7612"/>
+    <att type="real" name="CumulativeMI" value="102.451803"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="2"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="423.7847595214844" y="1427.228271484375" fill="#968697" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="2" cy:borderLineType="solid"/>
+  </node>
+  <node label="68" id="-190">
+    <att type="real" name="Conservation" value="2.766"/>
+    <att type="real" name="CumulativeMI" value="14.671623"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="68"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="192.9031219482422" y="1335.5916748046875" fill="#bf525c" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="68" cy:borderLineType="solid"/>
+  </node>
+  <node label="67" id="-65">
+    <att type="real" name="Conservation" value="0.6647"/>
+    <att type="real" name="CumulativeMI" value="103.283734"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="67"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="292.6573791503906" y="1303.3978271484375" fill="#68c0d8" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="67" cy:borderLineType="solid"/>
+  </node>
+  <node label="54" id="-409">
+    <att type="real" name="Conservation" value="1.7484"/>
+    <att type="real" name="CumulativeMI" value="23.891907"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="54"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="617.2523803710938" y="699.8683471679688" fill="#958798" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="54" cy:borderLineType="solid"/>
+  </node>
+  <node label="62" id="-64">
+    <att type="real" name="Conservation" value="0.5732"/>
+    <att type="real" name="CumulativeMI" value="20.090663"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="62"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="763.2095947265625" y="343.677001953125" fill="#65c5dd" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="62" cy:borderLineType="solid"/>
+  </node>
+  <node label="19" id="-407">
+    <att type="real" name="Conservation" value="0.7119"/>
+    <att type="real" name="CumulativeMI" value="99.917284"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="19"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1435.1768798828125" y="1792.3726806640625" fill="#6abed5" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="19" cy:borderLineType="solid"/>
+  </node>
+  <node label="45" id="-183">
+    <att type="real" name="Conservation" value="1.0316"/>
+    <att type="real" name="CumulativeMI" value="24.436494"/>
+    <att type="string" name="SecondaryStructure" value="T"/>
+    <att type="string" name="canonicalName" value="45"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1535.755615234375" y="567.22705078125" fill="#78adc2" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="45" cy:borderLineType="solid"/>
+  </node>
+  <node label="66" id="-405">
+    <att type="real" name="Conservation" value="0.9888"/>
+    <att type="real" name="CumulativeMI" value="207.578684"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="66"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="385.5585632324219" y="1357.3253173828125" fill="#76afc5" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="66" cy:borderLineType="solid"/>
+  </node>
+  <node label="56" id="-404">
+    <att type="real" name="Conservation" value="0.7675"/>
+    <att type="real" name="CumulativeMI" value="43.165428"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="56"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="693.3138427734375" y="450.5432434082031" fill="#6dbbd2" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="56" cy:borderLineType="solid"/>
+  </node>
+  <node label="60" id="-295">
+    <att type="real" name="Conservation" value="0.8857"/>
+    <att type="real" name="CumulativeMI" value="99.651592"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="60"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="379.3050537109375" y="709.9891967773438" fill="#71b4cb" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="60" cy:borderLineType="solid"/>
+  </node>
+  <node label="52" id="-179">
+    <att type="real" name="Conservation" value="0.8505"/>
+    <att type="real" name="CumulativeMI" value="34.698872"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="52"/>
+    <graphics type="ELLIPSE" h="35.00001525878906" w="35.0" x="1318.8905029296875" y="211.3038101196289" fill="#70b6cd" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="52" cy:borderLineType="solid"/>
+  </node>
+  <node label="15" id="-54">
+    <att type="real" name="Conservation" value="0.4515"/>
+    <att type="real" name="CumulativeMI" value="78.902879"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="15"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1092.2635498046875" y="1609.5013427734375" fill="#60cbe4" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="15" cy:borderLineType="solid"/>
+  </node>
+  <node label="12" id="-177">
+    <att type="real" name="Conservation" value="0.6884"/>
+    <att type="real" name="CumulativeMI" value="129.600959"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="12"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="715.201171875" y="1477.979248046875" fill="#69bfd6" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="12" cy:borderLineType="solid"/>
+  </node>
+  <node label="41" id="-178">
+    <att type="real" name="Conservation" value="0.5886"/>
+    <att type="real" name="CumulativeMI" value="23.425804"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="41"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1519.50537109375" y="1824.1610107421875" fill="#65c4dc" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="41" cy:borderLineType="solid"/>
+  </node>
+  <node label="58" id="-51">
+    <att type="real" name="Conservation" value="1.5964"/>
+    <att type="real" name="CumulativeMI" value="30.496648"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="58"/>
+    <graphics type="ELLIPSE" h="35.000030517578125" w="35.0" x="877.0062255859375" y="457.12525939941406" fill="#8f8fa1" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="58" cy:borderLineType="solid"/>
+  </node>
+  <node label="64" id="-174">
+    <att type="real" name="Conservation" value="0.9237"/>
+    <att type="real" name="CumulativeMI" value="65.867136"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="64"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="302.2969970703125" y="633.842041015625" fill="#73b2c8" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="64" cy:borderLineType="solid"/>
+  </node>
+  <node label="39" id="-173">
+    <att type="real" name="Conservation" value="5.383"/>
+    <att type="real" name="CumulativeMI" value="0.0"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="39"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="210.0" y="2376.001953125" fill="#ff0000" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="39" cy:borderLineType="solid"/>
+  </node>
+  <node label="50" id="-397">
+    <att type="real" name="Conservation" value="3.1761"/>
+    <att type="real" name="CumulativeMI" value="17.540351"/>
+    <att type="string" name="SecondaryStructure" value="T"/>
+    <att type="string" name="canonicalName" value="50"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1318.233154296875" y="817.7399291992188" fill="#d03c44" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="50" cy:borderLineType="solid"/>
+  </node>
+  <node label="29" id="-42">
+    <att type="real" name="Conservation" value="0.4635"/>
+    <att type="real" name="CumulativeMI" value="69.694745"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="29"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="929.4381713867188" y="1669.7275390625" fill="#60cbe4" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="29" cy:borderLineType="solid"/>
+  </node>
+  <node label="65" id="-288">
+    <att type="real" name="Conservation" value="0.8555"/>
+    <att type="real" name="CumulativeMI" value="209.973884"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="65"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.00001525878906" x="259.73409271240234" y="1386.0855712890625" fill="#70b6cd" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="65" cy:borderLineType="solid"/>
+  </node>
+  <node label="48" id="-389">
+    <att type="real" name="Conservation" value="0.7957"/>
+    <att type="real" name="CumulativeMI" value="55.510372"/>
+    <att type="string" name="SecondaryStructure" value="-"/>
+    <att type="string" name="canonicalName" value="48"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1345.00146484375" y="391.5903015136719" fill="#6eb9d0" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="48" cy:borderLineType="solid"/>
+  </node>
+  <node label="11" id="-34">
+    <att type="real" name="Conservation" value="2.9043"/>
+    <att type="real" name="CumulativeMI" value="58.33063"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="11"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1207.4671630859375" y="1046.7540283203125" fill="#c54a54" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="11" cy:borderLineType="solid"/>
+  </node>
+  <node label="35" id="-33">
+    <att type="real" name="Conservation" value="1.2262"/>
+    <att type="real" name="CumulativeMI" value="50.988378"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="35"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="974.922119140625" y="1377.9970703125" fill="#80a3b7" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="35" cy:borderLineType="solid"/>
+  </node>
+  <node label="31" id="-32">
+    <att type="real" name="Conservation" value="1.3258"/>
+    <att type="real" name="CumulativeMI" value="17.696701"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="31"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1121.99365234375" y="1677.800537109375" fill="#849db1" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="31" cy:borderLineType="solid"/>
+  </node>
+  <node label="10" id="-381">
+    <att type="real" name="Conservation" value="0.9058"/>
+    <att type="real" name="CumulativeMI" value="61.065907"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="10"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="530.94580078125" y="850.0234985351562" fill="#72b3ca" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="10" cy:borderLineType="solid"/>
+  </node>
+  <node label="20" id="-269">
+    <att type="real" name="Conservation" value="0.595"/>
+    <att type="real" name="CumulativeMI" value="52.797122"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="20"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1556.0650634765625" y="1899.6297607421875" fill="#66c4dc" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="20" cy:borderLineType="solid"/>
+  </node>
+  <node label="61" id="-141">
+    <att type="real" name="Conservation" value="2.3421"/>
+    <att type="real" name="CumulativeMI" value="235.858435"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="61"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="389.9389343261719" y="1262.3074951171875" fill="#ae6875" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="61" cy:borderLineType="solid"/>
+  </node>
+  <node label="57" id="-20">
+    <att type="real" name="Conservation" value="0.7217"/>
+    <att type="real" name="CumulativeMI" value="126.973697"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="57"/>
+    <graphics type="ELLIPSE" h="35.0" w="34.999969482421875" x="498.8074493408203" y="747.0310668945312" fill="#6bbdd4" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="57" cy:borderLineType="solid"/>
+  </node>
+  <node label="27" id="-261">
+    <att type="real" name="Conservation" value="0.6598"/>
+    <att type="real" name="CumulativeMI" value="75.077372"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="27"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="950.838134765625" y="1585.417724609375" fill="#68c0d8" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="27" cy:borderLineType="solid"/>
+  </node>
+  <node label="55" id="-13">
+    <att type="real" name="Conservation" value="0.706"/>
+    <att type="real" name="CumulativeMI" value="30.176636"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="55"/>
+    <graphics type="ELLIPSE" h="35.00001525878906" w="35.0" x="1138.1007080078125" y="212.41211700439453" fill="#6abed5" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="55" cy:borderLineType="solid"/>
+  </node>
+  <node label="44" id="-260">
+    <att type="real" name="Conservation" value="0.9641"/>
+    <att type="real" name="CumulativeMI" value="31.848457"/>
+    <att type="string" name="SecondaryStructure" value="T"/>
+    <att type="string" name="canonicalName" value="44"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1442.3450927734375" y="443.3208312988281" fill="#75b0c6" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="44" cy:borderLineType="solid"/>
+  </node>
+  <node label="16" id="-12">
+    <att type="real" name="Conservation" value="2.2267"/>
+    <att type="real" name="CumulativeMI" value="30.134519"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="16"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="737.4637451171875" y="1654.400146484375" fill="#a96e7c" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="16" cy:borderLineType="solid"/>
+  </node>
+  <node label="18" id="-255">
+    <att type="real" name="Conservation" value="0.5598"/>
+    <att type="real" name="CumulativeMI" value="26.370445"/>
+    <att type="string" name="SecondaryStructure" value="G"/>
+    <att type="string" name="canonicalName" value="18"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1230.732177734375" y="1821.3917236328125" fill="#64c6de" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="18" cy:borderLineType="solid"/>
+  </node>
+  <node label="26" id="-362">
+    <att type="real" name="Conservation" value="0.4593"/>
+    <att type="real" name="CumulativeMI" value="82.21087"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="26"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1234.555908203125" y="1768.5728759765625" fill="#60cbe4" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="26" cy:borderLineType="solid"/>
+  </node>
+  <node label="7" id="-360">
+    <att type="real" name="Conservation" value="1.5957"/>
+    <att type="real" name="CumulativeMI" value="15.807756"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="7"/>
+    <graphics type="ELLIPSE" h="34.99993896484375" w="35.0" x="487.63031005859375" y="960.3445129394531" fill="#8f8fa1" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="7" cy:borderLineType="solid"/>
+  </node>
+  <node label="21" id="-123">
+    <att type="real" name="Conservation" value="0.5236"/>
+    <att type="real" name="CumulativeMI" value="33.327243"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="21"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1648.3145751953125" y="1829.430419921875" fill="#63c7e0" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="21" cy:borderLineType="solid"/>
+  </node>
+  <node label="63" id="-357">
+    <att type="real" name="Conservation" value="0.794"/>
+    <att type="real" name="CumulativeMI" value="8.846082"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="63"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="792.9553833007812" y="10.0" fill="#6eb9d0" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="63" cy:borderLineType="solid"/>
+  </node>
+  <node label="32" id="-2">
+    <att type="real" name="Conservation" value="1.1096"/>
+    <att type="real" name="CumulativeMI" value="84.832948"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="32"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="698.4788208007812" y="1589.747802734375" fill="#7ba9be" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="32" cy:borderLineType="solid"/>
+  </node>
+  <node label="33" id="-356">
+    <att type="real" name="Conservation" value="1.9348"/>
+    <att type="real" name="CumulativeMI" value="6.631196"/>
+    <att type="string" name="SecondaryStructure" value="H"/>
+    <att type="string" name="canonicalName" value="33"/>
+    <graphics type="ELLIPSE" h="35.0" w="35.0" x="1491.3468017578125" y="2276.001953125" fill="#9d7d8d" width="1" outline="#000000" cy:nodeTransparency="0.7254901960784313" cy:nodeLabelFont="Default-0-12" cy:nodeLabel="33" cy:borderLineType="solid"/>
+  </node>
+  <edge label="5 (MI) 27" source="-121" target="-261">
+    <att type="real" name="MutualInfo" value="7.031466"/>
+    <att type="string" name="canonicalName" value="5 (MI) 27"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="5 (MI) 11" source="-121" target="-34">
+    <att type="real" name="MutualInfo" value="11.60326"/>
+    <att type="string" name="canonicalName" value="5 (MI) 11"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="5 (MI) 8" source="-121" target="-114">
+    <att type="real" name="MutualInfo" value="8.57883"/>
+    <att type="string" name="canonicalName" value="5 (MI) 8"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="43 (MI) 49" source="-118" target="-89">
+    <att type="real" name="MutualInfo" value="10.807979"/>
+    <att type="string" name="canonicalName" value="43 (MI) 49"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="43 (MI) 46" source="-118" target="-227">
+    <att type="real" name="MutualInfo" value="14.619237"/>
+    <att type="string" name="canonicalName" value="43 (MI) 46"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="43 (MI) 45" source="-118" target="-183">
+    <att type="real" name="MutualInfo" value="10.102401"/>
+    <att type="string" name="canonicalName" value="43 (MI) 45"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="43 (MI) 44" source="-118" target="-260">
+    <att type="real" name="MutualInfo" value="7.266346"/>
+    <att type="string" name="canonicalName" value="43 (MI) 44"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="37 (MI) 41" source="-117" target="-178">
+    <att type="real" name="MutualInfo" value="16.181671"/>
+    <att type="string" name="canonicalName" value="37 (MI) 41"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="34 (MI) 38" source="-472" target="-470">
+    <att type="real" name="MutualInfo" value="12.764809"/>
+    <att type="string" name="canonicalName" value="34 (MI) 38"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="34 (MI) 37" source="-472" target="-117">
+    <att type="real" name="MutualInfo" value="9.021141"/>
+    <att type="string" name="canonicalName" value="34 (MI) 37"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="38 (MI) 42" source="-470" target="-224">
+    <att type="real" name="MutualInfo" value="8.016734"/>
+    <att type="string" name="canonicalName" value="38 (MI) 42"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="38 (MI) 41" source="-470" target="-178">
+    <att type="real" name="MutualInfo" value="7.244133"/>
+    <att type="string" name="canonicalName" value="38 (MI) 41"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="8 (MI) 66" source="-114" target="-405">
+    <att type="real" name="MutualInfo" value="9.129099"/>
+    <att type="string" name="canonicalName" value="8 (MI) 66"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="8 (MI) 61" source="-114" target="-141">
+    <att type="real" name="MutualInfo" value="8.097216"/>
+    <att type="string" name="canonicalName" value="8 (MI) 61"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="8 (MI) 28" source="-114" target="-427">
+    <att type="real" name="MutualInfo" value="7.594323"/>
+    <att type="string" name="canonicalName" value="8 (MI) 28"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="8 (MI) 12" source="-114" target="-177">
+    <att type="real" name="MutualInfo" value="8.263657"/>
+    <att type="string" name="canonicalName" value="8 (MI) 12"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="8 (MI) 9" source="-114" target="-465">
+    <att type="real" name="MutualInfo" value="8.813356"/>
+    <att type="string" name="canonicalName" value="8 (MI) 9"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="51 (MI) 58" source="-237" target="-51">
+    <att type="real" name="MutualInfo" value="9.694434"/>
+    <att type="string" name="canonicalName" value="51 (MI) 58"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="51 (MI) 55" source="-237" target="-13">
+    <att type="real" name="MutualInfo" value="13.609653"/>
+    <att type="string" name="canonicalName" value="51 (MI) 55"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="9 (MI) 61" source="-465" target="-141">
+    <att type="real" name="MutualInfo" value="8.65541"/>
+    <att type="string" name="canonicalName" value="9 (MI) 61"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="9 (MI) 36" source="-465" target="-233">
+    <att type="real" name="MutualInfo" value="9.481078"/>
+    <att type="string" name="canonicalName" value="9 (MI) 36"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="9 (MI) 32" source="-465" target="-2">
+    <att type="real" name="MutualInfo" value="14.604025"/>
+    <att type="string" name="canonicalName" value="9 (MI) 32"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="9 (MI) 28" source="-465" target="-427">
+    <att type="real" name="MutualInfo" value="9.788356"/>
+    <att type="string" name="canonicalName" value="9 (MI) 28"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="9 (MI) 12" source="-465" target="-177">
+    <att type="real" name="MutualInfo" value="25.036552"/>
+    <att type="string" name="canonicalName" value="9 (MI) 12"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="36 (MI) 40" source="-233" target="-431">
+    <att type="real" name="MutualInfo" value="7.006434"/>
+    <att type="string" name="canonicalName" value="36 (MI) 40"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 67" source="-231" target="-65">
+    <att type="real" name="MutualInfo" value="12.871058"/>
+    <att type="string" name="canonicalName" value="6 (MI) 67"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 66" source="-231" target="-405">
+    <att type="real" name="MutualInfo" value="29.432329"/>
+    <att type="string" name="canonicalName" value="6 (MI) 66"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 65" source="-231" target="-288">
+    <att type="real" name="MutualInfo" value="23.870426"/>
+    <att type="string" name="canonicalName" value="6 (MI) 65"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 61" source="-231" target="-141">
+    <att type="real" name="MutualInfo" value="27.40749"/>
+    <att type="string" name="canonicalName" value="6 (MI) 61"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 28" source="-231" target="-427">
+    <att type="real" name="MutualInfo" value="7.188596"/>
+    <att type="string" name="canonicalName" value="6 (MI) 28"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 12" source="-231" target="-177">
+    <att type="real" name="MutualInfo" value="6.555687"/>
+    <att type="string" name="canonicalName" value="6 (MI) 12"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 10" source="-231" target="-381">
+    <att type="real" name="MutualInfo" value="9.633286"/>
+    <att type="string" name="canonicalName" value="6 (MI) 10"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 9" source="-231" target="-465">
+    <att type="real" name="MutualInfo" value="13.09563"/>
+    <att type="string" name="canonicalName" value="6 (MI) 9"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 8" source="-231" target="-114">
+    <att type="real" name="MutualInfo" value="12.552199"/>
+    <att type="string" name="canonicalName" value="6 (MI) 8"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="6 (MI) 7" source="-231" target="-360">
+    <att type="real" name="MutualInfo" value="6.501274"/>
+    <att type="string" name="canonicalName" value="6 (MI) 7"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="13 (MI) 29" source="-454" target="-42">
+    <att type="real" name="MutualInfo" value="6.881392"/>
+    <att type="string" name="canonicalName" value="13 (MI) 29"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="13 (MI) 16" source="-454" target="-12">
+    <att type="real" name="MutualInfo" value="11.254892"/>
+    <att type="string" name="canonicalName" value="13 (MI) 16"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="13 (MI) 15" source="-454" target="-54">
+    <att type="real" name="MutualInfo" value="9.19357"/>
+    <att type="string" name="canonicalName" value="13 (MI) 15"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="13 (MI) 14" source="-454" target="-86">
+    <att type="real" name="MutualInfo" value="7.040201"/>
+    <att type="string" name="canonicalName" value="13 (MI) 14"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="23 (MI) 34" source="-104" target="-472">
+    <att type="real" name="MutualInfo" value="6.65094"/>
+    <att type="string" name="canonicalName" value="23 (MI) 34"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="23 (MI) 26" source="-104" target="-362">
+    <att type="real" name="MutualInfo" value="9.20785"/>
+    <att type="string" name="canonicalName" value="23 (MI) 26"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="23 (MI) 25" source="-104" target="-203">
+    <att type="real" name="MutualInfo" value="7.576408"/>
+    <att type="string" name="canonicalName" value="23 (MI) 25"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="23 (MI) 24" source="-104" target="-91">
+    <att type="real" name="MutualInfo" value="13.386788"/>
+    <att type="string" name="canonicalName" value="23 (MI) 24"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="46 (MI) 49" source="-227" target="-89">
+    <att type="real" name="MutualInfo" value="10.134768"/>
+    <att type="string" name="canonicalName" value="46 (MI) 49"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="42 (MI) 49" source="-224" target="-89">
+    <att type="real" name="MutualInfo" value="7.912582"/>
+    <att type="string" name="canonicalName" value="42 (MI) 49"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="42 (MI) 46" source="-224" target="-227">
+    <att type="real" name="MutualInfo" value="38.057426"/>
+    <att type="string" name="canonicalName" value="42 (MI) 46"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="22 (MI) 23" source="-225" target="-104">
+    <att type="real" name="MutualInfo" value="15.259375"/>
+    <att type="string" name="canonicalName" value="22 (MI) 23"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="53 (MI) 57" source="-447" target="-20">
+    <att type="real" name="MutualInfo" value="15.362079"/>
+    <att type="string" name="canonicalName" value="53 (MI) 57"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="53 (MI) 56" source="-447" target="-404">
+    <att type="real" name="MutualInfo" value="19.424398"/>
+    <att type="string" name="canonicalName" value="53 (MI) 56"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="24 (MI) 26" source="-91" target="-362">
+    <att type="real" name="MutualInfo" value="9.832724"/>
+    <att type="string" name="canonicalName" value="24 (MI) 26"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="24 (MI) 25" source="-91" target="-203">
+    <att type="real" name="MutualInfo" value="7.332307"/>
+    <att type="string" name="canonicalName" value="24 (MI) 25"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="49 (MI) 53" source="-89" target="-447">
+    <att type="real" name="MutualInfo" value="10.162584"/>
+    <att type="string" name="canonicalName" value="49 (MI) 53"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="49 (MI) 51" source="-89" target="-237">
+    <att type="real" name="MutualInfo" value="9.010361"/>
+    <att type="string" name="canonicalName" value="49 (MI) 51"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="49 (MI) 50" source="-89" target="-397">
+    <att type="real" name="MutualInfo" value="10.066762"/>
+    <att type="string" name="canonicalName" value="49 (MI) 50"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="59 (MI) 63" source="-438" target="-357">
+    <att type="real" name="MutualInfo" value="8.846082"/>
+    <att type="string" name="canonicalName" value="59 (MI) 63"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="14 (MI) 15" source="-86" target="-54">
+    <att type="real" name="MutualInfo" value="10.697218"/>
+    <att type="string" name="canonicalName" value="14 (MI) 15"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="28 (MI) 35" source="-427" target="-33">
+    <att type="real" name="MutualInfo" value="9.123932"/>
+    <att type="string" name="canonicalName" value="28 (MI) 35"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="28 (MI) 32" source="-427" target="-2">
+    <att type="real" name="MutualInfo" value="26.707144"/>
+    <att type="string" name="canonicalName" value="28 (MI) 32"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="28 (MI) 31" source="-427" target="-32">
+    <att type="real" name="MutualInfo" value="7.08545"/>
+    <att type="string" name="canonicalName" value="28 (MI) 31"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="28 (MI) 29" source="-427" target="-42">
+    <att type="real" name="MutualInfo" value="18.221964"/>
+    <att type="string" name="canonicalName" value="28 (MI) 29"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="25 (MI) 26" source="-203" target="-362">
+    <att type="real" name="MutualInfo" value="16.980013"/>
+    <att type="string" name="canonicalName" value="25 (MI) 26"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 68" source="-193" target="-190">
+    <att type="real" name="MutualInfo" value="7.140158"/>
+    <att type="string" name="canonicalName" value="1 (MI) 68"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 67" source="-193" target="-65">
+    <att type="real" name="MutualInfo" value="9.46945"/>
+    <att type="string" name="canonicalName" value="1 (MI) 67"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 66" source="-193" target="-405">
+    <att type="real" name="MutualInfo" value="18.622515"/>
+    <att type="string" name="canonicalName" value="1 (MI) 66"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 65" source="-193" target="-288">
+    <att type="real" name="MutualInfo" value="25.152508"/>
+    <att type="string" name="canonicalName" value="1 (MI) 65"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 61" source="-193" target="-141">
+    <att type="real" name="MutualInfo" value="33.974068"/>
+    <att type="string" name="canonicalName" value="1 (MI) 61"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 9" source="-193" target="-465">
+    <att type="real" name="MutualInfo" value="9.075662"/>
+    <att type="string" name="canonicalName" value="1 (MI) 9"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 6" source="-193" target="-231">
+    <att type="real" name="MutualInfo" value="24.197447"/>
+    <att type="string" name="canonicalName" value="1 (MI) 6"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="1 (MI) 2" source="-193" target="-308">
+    <att type="real" name="MutualInfo" value="11.236325"/>
+    <att type="string" name="canonicalName" value="1 (MI) 2"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="17 (MI) 21" source="-307" target="-123">
+    <att type="real" name="MutualInfo" value="9.754866"/>
+    <att type="string" name="canonicalName" value="17 (MI) 21"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="17 (MI) 20" source="-307" target="-269">
+    <att type="real" name="MutualInfo" value="14.390804"/>
+    <att type="string" name="canonicalName" value="17 (MI) 20"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="17 (MI) 19" source="-307" target="-407">
+    <att type="real" name="MutualInfo" value="9.248628"/>
+    <att type="string" name="canonicalName" value="17 (MI) 19"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 66" source="-308" target="-405">
+    <att type="real" name="MutualInfo" value="9.111248"/>
+    <att type="string" name="canonicalName" value="2 (MI) 66"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 65" source="-308" target="-288">
+    <att type="real" name="MutualInfo" value="11.322042"/>
+    <att type="string" name="canonicalName" value="2 (MI) 65"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 61" source="-308" target="-141">
+    <att type="real" name="MutualInfo" value="14.61895"/>
+    <att type="string" name="canonicalName" value="2 (MI) 61"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 12" source="-308" target="-177">
+    <att type="real" name="MutualInfo" value="11.69676"/>
+    <att type="string" name="canonicalName" value="2 (MI) 12"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 9" source="-308" target="-465">
+    <att type="real" name="MutualInfo" value="9.171203"/>
+    <att type="string" name="canonicalName" value="2 (MI) 9"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 8" source="-308" target="-114">
+    <att type="real" name="MutualInfo" value="7.283967"/>
+    <att type="string" name="canonicalName" value="2 (MI) 8"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 6" source="-308" target="-231">
+    <att type="real" name="MutualInfo" value="14.419223"/>
+    <att type="string" name="canonicalName" value="2 (MI) 6"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="2 (MI) 3" source="-308" target="-459">
+    <att type="real" name="MutualInfo" value="13.592085"/>
+    <att type="string" name="canonicalName" value="2 (MI) 3"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="54 (MI) 58" source="-409" target="-51">
+    <att type="real" name="MutualInfo" value="7.219034"/>
+    <att type="string" name="canonicalName" value="54 (MI) 58"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 38" source="-407" target="-470">
+    <att type="real" name="MutualInfo" value="10.415668"/>
+    <att type="string" name="canonicalName" value="19 (MI) 38"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 31" source="-407" target="-32">
+    <att type="real" name="MutualInfo" value="10.611251"/>
+    <att type="string" name="canonicalName" value="19 (MI) 31"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 26" source="-407" target="-362">
+    <att type="real" name="MutualInfo" value="15.044609"/>
+    <att type="string" name="canonicalName" value="19 (MI) 26"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 24" source="-407" target="-91">
+    <att type="real" name="MutualInfo" value="6.612076"/>
+    <att type="string" name="canonicalName" value="19 (MI) 24"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 23" source="-407" target="-104">
+    <att type="real" name="MutualInfo" value="16.633163"/>
+    <att type="string" name="canonicalName" value="19 (MI) 23"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 22" source="-407" target="-225">
+    <att type="real" name="MutualInfo" value="9.27876"/>
+    <att type="string" name="canonicalName" value="19 (MI) 22"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 21" source="-407" target="-123">
+    <att type="real" name="MutualInfo" value="11.384644"/>
+    <att type="string" name="canonicalName" value="19 (MI) 21"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="19 (MI) 20" source="-407" target="-269">
+    <att type="real" name="MutualInfo" value="10.688485"/>
+    <att type="string" name="canonicalName" value="19 (MI) 20"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="45 (MI) 46" source="-183" target="-227">
+    <att type="real" name="MutualInfo" value="7.077009"/>
+    <att type="string" name="canonicalName" value="45 (MI) 46"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="66 (MI) 67" source="-405" target="-65">
+    <att type="real" name="MutualInfo" value="34.410801"/>
+    <att type="string" name="canonicalName" value="66 (MI) 67"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="56 (MI) 62" source="-404" target="-64">
+    <att type="real" name="MutualInfo" value="6.507483"/>
+    <att type="string" name="canonicalName" value="56 (MI) 62"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="56 (MI) 59" source="-404" target="-438">
+    <att type="real" name="MutualInfo" value="10.277049"/>
+    <att type="string" name="canonicalName" value="56 (MI) 59"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="56 (MI) 57" source="-404" target="-20">
+    <att type="real" name="MutualInfo" value="6.956498"/>
+    <att type="string" name="canonicalName" value="56 (MI) 57"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="60 (MI) 64" source="-295" target="-174">
+    <att type="real" name="MutualInfo" value="40.662174"/>
+    <att type="string" name="canonicalName" value="60 (MI) 64"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="52 (MI) 55" source="-179" target="-13">
+    <att type="real" name="MutualInfo" value="8.700903"/>
+    <att type="string" name="canonicalName" value="52 (MI) 55"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="15 (MI) 38" source="-54" target="-470">
+    <att type="real" name="MutualInfo" value="13.672865"/>
+    <att type="string" name="canonicalName" value="15 (MI) 38"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="15 (MI) 35" source="-54" target="-33">
+    <att type="real" name="MutualInfo" value="12.18567"/>
+    <att type="string" name="canonicalName" value="15 (MI) 35"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="15 (MI) 34" source="-54" target="-472">
+    <att type="real" name="MutualInfo" value="6.67645"/>
+    <att type="string" name="canonicalName" value="15 (MI) 34"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="15 (MI) 18" source="-54" target="-255">
+    <att type="real" name="MutualInfo" value="14.010758"/>
+    <att type="string" name="canonicalName" value="15 (MI) 18"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="12 (MI) 35" source="-177" target="-33">
+    <att type="real" name="MutualInfo" value="20.594732"/>
+    <att type="string" name="canonicalName" value="12 (MI) 35"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="12 (MI) 32" source="-177" target="-2">
+    <att type="real" name="MutualInfo" value="10.870509"/>
+    <att type="string" name="canonicalName" value="12 (MI) 32"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="12 (MI) 28" source="-177" target="-427">
+    <att type="real" name="MutualInfo" value="8.22261"/>
+    <att type="string" name="canonicalName" value="12 (MI) 28"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="12 (MI) 16" source="-177" target="-12">
+    <att type="real" name="MutualInfo" value="18.879627"/>
+    <att type="string" name="canonicalName" value="12 (MI) 16"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="12 (MI) 15" source="-177" target="-54">
+    <att type="real" name="MutualInfo" value="12.466348"/>
+    <att type="string" name="canonicalName" value="12 (MI) 15"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="12 (MI) 13" source="-177" target="-454">
+    <att type="real" name="MutualInfo" value="7.014477"/>
+    <att type="string" name="canonicalName" value="12 (MI) 13"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="58 (MI) 62" source="-51" target="-64">
+    <att type="real" name="MutualInfo" value="13.58318"/>
+    <att type="string" name="canonicalName" value="58 (MI) 62"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="29 (MI) 32" source="-42" target="-2">
+    <att type="real" name="MutualInfo" value="9.834371"/>
+    <att type="string" name="canonicalName" value="29 (MI) 32"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="29 (MI) 30" source="-42" target="-421">
+    <att type="real" name="MutualInfo" value="9.535858"/>
+    <att type="string" name="canonicalName" value="29 (MI) 30"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="65 (MI) 69" source="-288" target="-322">
+    <att type="real" name="MutualInfo" value="12.432335"/>
+    <att type="string" name="canonicalName" value="65 (MI) 69"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="65 (MI) 67" source="-288" target="-65">
+    <att type="real" name="MutualInfo" value="22.23192"/>
+    <att type="string" name="canonicalName" value="65 (MI) 67"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="65 (MI) 66" source="-288" target="-405">
+    <att type="real" name="MutualInfo" value="59.279072"/>
+    <att type="string" name="canonicalName" value="65 (MI) 66"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="48 (MI) 52" source="-389" target="-179">
+    <att type="real" name="MutualInfo" value="25.997969"/>
+    <att type="string" name="canonicalName" value="48 (MI) 52"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="48 (MI) 51" source="-389" target="-237">
+    <att type="real" name="MutualInfo" value="11.166645"/>
+    <att type="string" name="canonicalName" value="48 (MI) 51"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="48 (MI) 49" source="-389" target="-89">
+    <att type="real" name="MutualInfo" value="10.301641"/>
+    <att type="string" name="canonicalName" value="48 (MI) 49"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="11 (MI) 50" source="-34" target="-397">
+    <att type="real" name="MutualInfo" value="7.473589"/>
+    <att type="string" name="canonicalName" value="11 (MI) 50"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="11 (MI) 46" source="-34" target="-227">
+    <att type="real" name="MutualInfo" value="9.25173"/>
+    <att type="string" name="canonicalName" value="11 (MI) 46"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="11 (MI) 42" source="-34" target="-224">
+    <att type="real" name="MutualInfo" value="20.918007"/>
+    <att type="string" name="canonicalName" value="11 (MI) 42"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="11 (MI) 35" source="-34" target="-33">
+    <att type="real" name="MutualInfo" value="9.084044"/>
+    <att type="string" name="canonicalName" value="11 (MI) 35"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="10 (MI) 60" source="-381" target="-295">
+    <att type="real" name="MutualInfo" value="7.163921"/>
+    <att type="string" name="canonicalName" value="10 (MI) 60"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="10 (MI) 57" source="-381" target="-20">
+    <att type="real" name="MutualInfo" value="19.630531"/>
+    <att type="string" name="canonicalName" value="10 (MI) 57"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="10 (MI) 54" source="-381" target="-409">
+    <att type="real" name="MutualInfo" value="7.366391"/>
+    <att type="string" name="canonicalName" value="10 (MI) 54"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="10 (MI) 53" source="-381" target="-447">
+    <att type="real" name="MutualInfo" value="17.271778"/>
+    <att type="string" name="canonicalName" value="10 (MI) 53"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="20 (MI) 24" source="-269" target="-91">
+    <att type="real" name="MutualInfo" value="7.024542"/>
+    <att type="string" name="canonicalName" value="20 (MI) 24"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="20 (MI) 23" source="-269" target="-104">
+    <att type="real" name="MutualInfo" value="8.505558"/>
+    <att type="string" name="canonicalName" value="20 (MI) 23"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="20 (MI) 21" source="-269" target="-123">
+    <att type="real" name="MutualInfo" value="12.187733"/>
+    <att type="string" name="canonicalName" value="20 (MI) 21"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="61 (MI) 68" source="-141" target="-190">
+    <att type="real" name="MutualInfo" value="7.531465"/>
+    <att type="string" name="canonicalName" value="61 (MI) 68"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="61 (MI) 67" source="-141" target="-65">
+    <att type="real" name="MutualInfo" value="24.300505"/>
+    <att type="string" name="canonicalName" value="61 (MI) 67"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="61 (MI) 66" source="-141" target="-405">
+    <att type="real" name="MutualInfo" value="47.59362"/>
+    <att type="string" name="canonicalName" value="61 (MI) 66"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="61 (MI) 65" source="-141" target="-288">
+    <att type="real" name="MutualInfo" value="55.685581"/>
+    <att type="string" name="canonicalName" value="61 (MI) 65"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="57 (MI) 64" source="-20" target="-174">
+    <att type="real" name="MutualInfo" value="25.204962"/>
+    <att type="string" name="canonicalName" value="57 (MI) 64"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="57 (MI) 61" source="-20" target="-141">
+    <att type="real" name="MutualInfo" value="7.99413"/>
+    <att type="string" name="canonicalName" value="57 (MI) 61"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="57 (MI) 60" source="-20" target="-295">
+    <att type="real" name="MutualInfo" value="51.825497"/>
+    <att type="string" name="canonicalName" value="57 (MI) 60"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="27 (MI) 32" source="-261" target="-2">
+    <att type="real" name="MutualInfo" value="7.798401"/>
+    <att type="string" name="canonicalName" value="27 (MI) 32"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="27 (MI) 30" source="-261" target="-421">
+    <att type="real" name="MutualInfo" value="10.759094"/>
+    <att type="string" name="canonicalName" value="27 (MI) 30"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="27 (MI) 29" source="-261" target="-42">
+    <att type="real" name="MutualInfo" value="17.737375"/>
+    <att type="string" name="canonicalName" value="27 (MI) 29"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="27 (MI) 28" source="-261" target="-427">
+    <att type="real" name="MutualInfo" value="21.909416"/>
+    <att type="string" name="canonicalName" value="27 (MI) 28"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="55 (MI) 59" source="-13" target="-438">
+    <att type="real" name="MutualInfo" value="7.86608"/>
+    <att type="string" name="canonicalName" value="55 (MI) 59"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="44 (MI) 51" source="-260" target="-237">
+    <att type="real" name="MutualInfo" value="9.28091"/>
+    <att type="string" name="canonicalName" value="44 (MI) 51"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="44 (MI) 48" source="-260" target="-389">
+    <att type="real" name="MutualInfo" value="8.044117"/>
+    <att type="string" name="canonicalName" value="44 (MI) 48"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="44 (MI) 45" source="-260" target="-183">
+    <att type="real" name="MutualInfo" value="7.257084"/>
+    <att type="string" name="canonicalName" value="44 (MI) 45"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="18 (MI) 22" source="-255" target="-225">
+    <att type="real" name="MutualInfo" value="12.359687"/>
+    <att type="string" name="canonicalName" value="18 (MI) 22"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="26 (MI) 30" source="-362" target="-421">
+    <att type="real" name="MutualInfo" value="13.820269"/>
+    <att type="string" name="canonicalName" value="26 (MI) 30"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="26 (MI) 29" source="-362" target="-42">
+    <att type="real" name="MutualInfo" value="7.483785"/>
+    <att type="string" name="canonicalName" value="26 (MI) 29"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="26 (MI) 27" source="-362" target="-261">
+    <att type="real" name="MutualInfo" value="9.84162"/>
+    <att type="string" name="canonicalName" value="26 (MI) 27"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="7 (MI) 54" source="-360" target="-409">
+    <att type="real" name="MutualInfo" value="9.306482"/>
+    <att type="string" name="canonicalName" value="7 (MI) 54"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="32 (MI) 36" source="-2" target="-233">
+    <att type="real" name="MutualInfo" value="15.018498"/>
+    <att type="string" name="canonicalName" value="32 (MI) 36"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+  <edge label="33 (MI) 37" source="-356" target="-117">
+    <att type="real" name="MutualInfo" value="6.631196"/>
+    <att type="string" name="canonicalName" value="33 (MI) 37"/>
+    <att type="string" name="interaction" value="MI" cy:editable="false"/>
+    <graphics width="1" fill="#000000" cy:sourceArrow="0" cy:targetArrow="0" cy:sourceArrowColor="#000000" cy:targetArrowColor="#000000" cy:edgeLabelFont="SanSerif-0-10" cy:edgeLabel="" cy:edgeLineType="SOLID" cy:curved="STRAIGHT_LINES"/>
+  </edge>
+</graph>
