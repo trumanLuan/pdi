@@ -1,0 +1,139 @@
+Rate4Site to be run using the executable at '.\rate4site.exe'.
+
+
+Input FASTA from file data-v2-without_pseudo_cluster/Homeobox-domain_MSA_sort.txt
+Number of columns in the alignment (== length of first sequence including gaps) = 57
+Number of rows in the alignment = 287
+
+partition of size 13 to be created.
+partition of size 183 to be created.
+partition of size 14 to be created.
+partition of size 11 to be created.
+partition of size 9 to be created.
+partition of size 18 to be created.
+partition of size 5 to be created.
+partition of size 12 to be created.
+partition of size 16 to be created.
+partition of size 6 to be created.
+Partitioning the input alignment into 10 subfamilies.
+    Subfamily 1 consists of 13 rows; only columns with at most 20% gaps (<= 2) are analyzed.
+    Subfamily 2 consists of 183 rows; only columns with at most 20% gaps (<= 36) are analyzed.
+    Subfamily 3 consists of 14 rows; only columns with at most 20% gaps (<= 2) are analyzed.
+    Subfamily 4 consists of 11 rows; only columns with at most 20% gaps (<= 2) are analyzed.
+    Subfamily 5 consists of 9 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+    Subfamily 6 consists of 18 rows; only columns with at most 20% gaps (<= 3) are analyzed.
+    Subfamily 7 consists of 5 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+    Subfamily 8 consists of 12 rows; only columns with at most 20% gaps (<= 2) are analyzed.
+    Subfamily 9 consists of 16 rows; only columns with at most 20% gaps (<= 3) are analyzed.
+    Subfamily 10 consists of 6 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+
+Speer scoring term weights:
+  Relative entropy term weight (-wRE)         = 1
+  Evolutionary distance term weight (-wEDist) = 1
+  Evolutionary rate term weight (-wERate)     = 1
+
+
+
+
+Fasta for subfamily 1 written to temporary file C:\Users\admin\AppData\Local\Temp\1if8_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 0 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 0.
+
+Fasta for subfamily 2 written to temporary file C:\Users\admin\AppData\Local\Temp\1ifl_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 2 (please wait; this may take a while...)
+    ... 'rate4Site' has returned with error code 1 for subfamily 2.
+    ***  There may have been a problem -> inspect any results carefully!  ***
+Fasta for subfamily 3 written to temporary file C:\Users\admin\AppData\Local\Temp\1ihj_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 4 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 4.
+
+Fasta for subfamily 4 written to temporary file C:\Users\admin\AppData\Local\Temp\1ii8_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 6 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 6.
+
+Fasta for subfamily 5 written to temporary file C:\Users\admin\AppData\Local\Temp\1ij0_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 8 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 8.
+
+Fasta for subfamily 6 written to temporary file C:\Users\admin\AppData\Local\Temp\1ija_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 10 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 10.
+
+Fasta for subfamily 7 written to temporary file C:\Users\admin\AppData\Local\Temp\1ik2_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 12 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 12.
+
+Fasta for subfamily 8 written to temporary file C:\Users\admin\AppData\Local\Temp\1ik9_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 14 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 14.
+
+Fasta for subfamily 9 written to temporary file C:\Users\admin\AppData\Local\Temp\1ikj_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 16 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 16.
+
+Fasta for subfamily 10 written to temporary file C:\Users\admin\AppData\Local\Temp\1ile_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 18 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 18.
+
+#                  SPEER Results
+#====================================================
+# Column     %ID       Score      Z-score     P-value
+#====================================================
+
+52          21.0       4.518       2.608       0.005
+45          30.3       3.918       2.261       0.012
+48          53.8       3.577       2.064       0.019
+53          63.6       2.703       1.560       0.059
+24          39.3       2.584       1.492       0.068
+44          29.8       2.104       1.214       0.112
+41          15.9       2.062       1.190       0.117
+17          12.8       2.049       1.183       0.118
+29          58.7       1.777       1.026       0.153
+50          53.4       1.591       0.919       0.179
+21          19.8       1.506       0.869       0.192
+36          36.2       1.197       0.691       0.245
+42          40.6       1.108       0.639       0.261
+22          14.8       1.069       0.617       0.269
+51          96.6       1.018       0.588       0.278
+6           41.7       0.827       0.477       0.317
+4           40.0       0.802       0.463       0.322
+49          94.5       0.775       0.447       0.327
+32          52.7       0.559       0.323       0.373
+46          97.2       0.515       0.297       0.383
+28          16.3       0.232       0.134       0.447
+25          21.7       0.230       0.132       0.447
+43          57.6      -0.008      -0.005       0.502
+47          89.9      -0.014      -0.008       0.503
+26          11.1      -0.056      -0.032       0.513
+13          21.0      -0.093      -0.054       0.521
+38          71.3      -0.311      -0.179       0.571
+10          65.9      -0.340      -0.197       0.578
+39          32.8      -0.341      -0.197       0.578
+33          66.5      -0.359      -0.207       0.582
+5           12.0      -0.396      -0.229       0.590
+7           36.2      -0.430      -0.248       0.598
+37          17.6      -0.466      -0.269       0.606
+16          17.7      -0.529      -0.305       0.620
+15          48.4      -0.576      -0.332       0.630
+8           10.3      -0.635      -0.367       0.643
+11          31.1      -0.731      -0.422       0.663
+40          34.6      -0.765      -0.441       0.671
+30          14.1      -0.908      -0.524       0.700
+54          13.2      -1.015      -0.586       0.721
+23          69.2      -1.231      -0.711       0.761
+2            8.3      -1.278      -0.738       0.770
+18          69.4      -1.375      -0.794       0.786
+27           7.7      -1.422      -0.821       0.794
+31          23.6      -1.944      -1.122       0.869
+19           9.1      -1.962      -1.132       0.871
+9            9.6      -2.080      -1.201       0.885
+12           9.4      -2.138      -1.234       0.891
+14          86.8      -2.227      -1.286       0.901
+20          10.2      -2.289      -1.321       0.907
+35           9.0      -2.347      -1.354       0.912
+34           8.1      -2.598      -1.499       0.933
+1           37.0      -2.756      -1.591       0.944
+3           86.6      -3.100      -1.789       0.963
+
+#====================================================
+

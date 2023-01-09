@@ -1,0 +1,22 @@
+long_name	short_name
+ALA	A
+ARG	R
+ASP	D
+CYS	C
+GLN	Q
+GLU	E
+HIS	H
+ILE	I
+GLY	G
+ASN	N
+LEU	L
+LYS	K
+MET	M
+PHE	F
+PRO	P
+SER	S
+THR	T
+TRP	W
+TYR	Y
+VAL	V
+

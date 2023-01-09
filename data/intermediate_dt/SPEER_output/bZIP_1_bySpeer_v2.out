@@ -1,0 +1,107 @@
+Rate4Site to be run using the executable at '.\rate4site.exe'.
+
+
+Input FASTA from file data-v2-without_pseudo_cluster/bZIP_1-domain_MSA_sort.txt
+Number of columns in the alignment (== length of first sequence including gaps) = 64
+Number of rows in the alignment = 46
+
+partition of size 16 to be created.
+partition of size 16 to be created.
+partition of size 7 to be created.
+partition of size 7 to be created.
+Partitioning the input alignment into 4 subfamilies.
+    Subfamily 1 consists of 16 rows; only columns with at most 20% gaps (<= 3) are analyzed.
+    Subfamily 2 consists of 16 rows; only columns with at most 20% gaps (<= 3) are analyzed.
+    Subfamily 3 consists of 7 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+    Subfamily 4 consists of 7 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+
+Speer scoring term weights:
+  Relative entropy term weight (-wRE)         = 1
+  Evolutionary distance term weight (-wEDist) = 1
+  Evolutionary rate term weight (-wERate)     = 1
+
+
+
+
+Fasta for subfamily 1 written to temporary file C:\Users\admin\AppData\Local\Temp\1ghf_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 0 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 0.
+
+Fasta for subfamily 2 written to temporary file C:\Users\admin\AppData\Local\Temp\1gib_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 2 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 2.
+
+Fasta for subfamily 3 written to temporary file C:\Users\admin\AppData\Local\Temp\1gj3_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 4 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 4.
+
+Fasta for subfamily 4 written to temporary file C:\Users\admin\AppData\Local\Temp\1gjd_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 6 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 6.
+
+#                  SPEER Results
+#====================================================
+# Column     %ID       Score      Z-score     P-value
+#====================================================
+
+13          32.7       5.592       2.852       0.002
+19          37.4       5.422       2.765       0.003
+17          16.3       4.721       2.408       0.008
+3           19.9       3.230       1.647       0.050
+16          64.3       3.019       1.540       0.062
+30          44.5       2.538       1.294       0.098
+7           48.2       2.520       1.285       0.099
+21          14.2       2.270       1.158       0.123
+26          14.9       2.047       1.044       0.148
+6           56.9       2.022       1.031       0.151
+23          30.1       1.796       0.916       0.180
+12          95.7       1.718       0.876       0.190
+27           9.7       1.593       0.812       0.208
+37          75.7       1.305       0.665       0.253
+58          51.6       1.092       0.557       0.289
+2           22.7       0.929       0.474       0.318
+24          39.1       0.729       0.372       0.355
+22          47.9       0.638       0.325       0.372
+18          27.9       0.476       0.243       0.404
+54          31.7       0.213       0.109       0.457
+61          13.4       0.213       0.108       0.457
+33          27.8       0.119       0.061       0.476
+32          10.4       0.116       0.059       0.476
+40          42.9       0.070       0.036       0.486
+55          19.2       0.020       0.010       0.496
+57          12.2      -0.115      -0.059       0.523
+15          72.7      -0.214      -0.109       0.543
+8           19.0      -0.220      -0.112       0.545
+59          18.8      -0.291      -0.148       0.559
+47          23.0      -0.316      -0.161       0.564
+14          14.0      -0.386      -0.197       0.578
+35          14.2      -0.640      -0.326       0.628
+25          12.9      -0.664      -0.339       0.633
+5           19.6      -0.832      -0.424       0.664
+28           9.6      -0.848      -0.433       0.667
+48          24.4      -0.861      -0.439       0.670
+29          12.6      -0.893      -0.456       0.676
+11          42.9      -1.125      -0.574       0.717
+53          11.9      -1.127      -0.575       0.717
+52          16.8      -1.332      -0.680       0.752
+4           11.5      -1.350      -0.689       0.754
+43          10.4      -1.364      -0.696       0.757
+31          28.5      -1.639      -0.836       0.798
+39          11.1      -1.654      -0.843       0.800
+1            9.3      -1.658      -0.845       0.801
+60          11.2      -1.750      -0.892       0.814
+41          68.3      -1.758      -0.896       0.815
+56          10.9      -1.857      -0.947       0.828
+45          12.9      -1.917      -0.977       0.836
+50           9.7      -1.976      -1.008       0.843
+42           9.4      -1.989      -1.014       0.845
+44          91.4      -2.069      -1.055       0.854
+38          19.9      -2.095      -1.068       0.857
+49          12.9      -2.133      -1.088       0.862
+36          12.9      -2.136      -1.089       0.862
+46          10.3      -2.216      -1.130       0.871
+34          20.9      -2.386      -1.217       0.888
+51          61.3      -2.596      -1.324       0.907
+
+#====================================================
+

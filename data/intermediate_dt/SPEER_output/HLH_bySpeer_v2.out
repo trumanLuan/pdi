@@ -1,0 +1,122 @@
+Rate4Site to be run using the executable at '.\rate4site.exe'.
+
+
+Input FASTA from file data-v2-without_pseudo_cluster/HLH-domain_MSA_sort.txt
+Number of columns in the alignment (== length of first sequence including gaps) = 55
+Number of rows in the alignment = 103
+
+partition of size 31 to be created.
+partition of size 13 to be created.
+partition of size 9 to be created.
+partition of size 8 to be created.
+partition of size 14 to be created.
+partition of size 6 to be created.
+partition of size 16 to be created.
+partition of size 6 to be created.
+Partitioning the input alignment into 8 subfamilies.
+    Subfamily 1 consists of 31 rows; only columns with at most 20% gaps (<= 6) are analyzed.
+    Subfamily 2 consists of 13 rows; only columns with at most 20% gaps (<= 2) are analyzed.
+    Subfamily 3 consists of 9 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+    Subfamily 4 consists of 8 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+    Subfamily 5 consists of 14 rows; only columns with at most 20% gaps (<= 2) are analyzed.
+    Subfamily 6 consists of 6 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+    Subfamily 7 consists of 16 rows; only columns with at most 20% gaps (<= 3) are analyzed.
+    Subfamily 8 consists of 6 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+
+Speer scoring term weights:
+  Relative entropy term weight (-wRE)         = 1
+  Evolutionary distance term weight (-wEDist) = 1
+  Evolutionary rate term weight (-wERate)     = 1
+
+
+
+
+Fasta for subfamily 1 written to temporary file C:\Users\admin\AppData\Local\Temp\1i02_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 0 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 0.
+
+Fasta for subfamily 2 written to temporary file C:\Users\admin\AppData\Local\Temp\1i1e_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 2 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 2.
+
+Fasta for subfamily 3 written to temporary file C:\Users\admin\AppData\Local\Temp\1i23_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 4 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 4.
+
+Fasta for subfamily 4 written to temporary file C:\Users\admin\AppData\Local\Temp\1i2d_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 6 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 6.
+
+Fasta for subfamily 5 written to temporary file C:\Users\admin\AppData\Local\Temp\1i2k_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 8 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 8.
+
+Fasta for subfamily 6 written to temporary file C:\Users\admin\AppData\Local\Temp\1i3j_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 10 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 10.
+
+Fasta for subfamily 7 written to temporary file C:\Users\admin\AppData\Local\Temp\1i3m_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 12 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 12.
+
+Fasta for subfamily 8 written to temporary file C:\Users\admin\AppData\Local\Temp\1i53_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 14 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 14.
+
+#                  SPEER Results
+#====================================================
+# Column     %ID       Score      Z-score     P-value
+#====================================================
+
+12          34.4       7.778       3.790       0.000
+7           23.0       4.608       2.245       0.012
+4           22.5       4.393       2.141       0.016
+13          10.6       2.756       1.343       0.090
+19          28.3       2.522       1.229       0.110
+40          17.5       1.940       0.945       0.172
+18          20.8       1.710       0.833       0.202
+38          29.6       1.569       0.764       0.222
+23          24.7       1.202       0.586       0.279
+43          94.3       1.042       0.508       0.306
+42          39.2       1.016       0.495       0.310
+49          51.9       0.741       0.361       0.359
+53          62.4       0.712       0.347       0.364
+50          54.7       0.666       0.324       0.373
+15          32.9       0.655       0.319       0.375
+37          37.4       0.568       0.277       0.391
+14          12.3       0.561       0.273       0.392
+36          43.0       0.516       0.252       0.401
+41          15.4       0.473       0.230       0.409
+46          46.4       0.442       0.216       0.415
+35          11.9       0.303       0.147       0.441
+47          16.6       0.108       0.053       0.479
+10          22.0       0.057       0.028       0.489
+25          23.1      -0.080      -0.039       0.515
+9           54.7      -0.100      -0.049       0.519
+3           11.0      -0.169      -0.082       0.533
+16          67.4      -0.174      -0.085       0.534
+11          92.4      -0.337      -0.164       0.565
+44          17.2      -0.619      -0.302       0.618
+45          14.5      -0.715      -0.349       0.636
+5           37.9      -0.852      -0.415       0.661
+51          12.2      -1.104      -0.538       0.705
+20          12.8      -1.194      -0.582       0.720
+6           12.1      -1.274      -0.621       0.733
+26          25.7      -1.281      -0.624       0.734
+17           9.3      -1.345      -0.656       0.744
+54          12.5      -1.420      -0.692       0.755
+39          86.9      -1.447      -0.705       0.760
+8           94.3      -1.530      -0.745       0.772
+2            8.0      -1.583      -0.771       0.780
+24          10.3      -1.736      -0.846       0.801
+27          60.8      -1.823      -0.888       0.813
+22          96.1      -1.911      -0.931       0.824
+32           9.3      -2.024      -0.986       0.838
+34          11.7      -2.176      -1.060       0.855
+48          12.1      -2.355      -1.148       0.874
+33           8.8      -2.476      -1.207       0.886
+21          18.7      -2.924      -1.425       0.923
+52           6.7      -3.690      -1.798       0.964
+
+#====================================================
+

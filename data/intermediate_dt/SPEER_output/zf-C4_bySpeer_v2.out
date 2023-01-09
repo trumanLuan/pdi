@@ -1,0 +1,94 @@
+Rate4Site to be run using the executable at '.\rate4site.exe'.
+
+
+Input FASTA from file data-v2-without_pseudo_cluster/zf-C4-domain_MSA_sort.txt
+Number of columns in the alignment (== length of first sequence including gaps) = 70
+Number of rows in the alignment = 39
+
+partition of size 12 to be created.
+partition of size 22 to be created.
+partition of size 5 to be created.
+Partitioning the input alignment into 3 subfamilies.
+    Subfamily 1 consists of 12 rows; only columns with at most 20% gaps (<= 2) are analyzed.
+    Subfamily 2 consists of 22 rows; only columns with at most 20% gaps (<= 4) are analyzed.
+    Subfamily 3 consists of 5 rows; only columns with at most 20% gaps (<= 1) are analyzed.
+
+Speer scoring term weights:
+  Relative entropy term weight (-wRE)         = 1
+  Evolutionary distance term weight (-wEDist) = 1
+  Evolutionary rate term weight (-wERate)     = 1
+
+
+
+
+Fasta for subfamily 1 written to temporary file C:\Users\admin\AppData\Local\Temp\1j1g_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 0 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 0.
+
+Fasta for subfamily 2 written to temporary file C:\Users\admin\AppData\Local\Temp\1j29_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 2 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 2.
+
+Fasta for subfamily 3 written to temporary file C:\Users\admin\AppData\Local\Temp\1j3b_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 4 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 4.
+
+#                  SPEER Results
+#====================================================
+# Column     %ID       Score      Z-score     P-value
+#====================================================
+
+23          80.7       3.705       2.293       0.011
+68          15.7       2.591       1.604       0.054
+46          57.1       2.128       1.317       0.094
+59          42.5       2.108       1.305       0.096
+27          52.8       2.035       1.260       0.104
+29          51.4       2.017       1.249       0.106
+20          76.5       2.002       1.239       0.108
+16          37.0       1.736       1.075       0.141
+55          72.1       1.716       1.062       0.144
+49          13.2       1.688       1.045       0.148
+56          38.3       1.429       0.884       0.188
+32          26.7       1.403       0.869       0.193
+11          94.9       1.221       0.756       0.225
+48          50.7       1.150       0.712       0.238
+15          85.2       1.042       0.645       0.259
+9           43.9       0.956       0.592       0.277
+39          17.1       0.884       0.547       0.292
+4           66.5       0.866       0.536       0.296
+10          76.5       0.741       0.458       0.323
+47          41.4       0.625       0.387       0.349
+30          43.9       0.538       0.333       0.370
+43          18.5       0.505       0.312       0.377
+31          41.8       0.414       0.256       0.399
+8           35.2       0.251       0.155       0.438
+52          65.6      -0.067      -0.041       0.516
+53          36.3      -0.068      -0.042       0.517
+21          72.2      -0.113      -0.070       0.528
+33          30.8      -0.175      -0.108       0.543
+69          27.8      -0.302      -0.187       0.574
+34          19.2      -0.316      -0.196       0.578
+60          33.1      -0.357      -0.221       0.587
+12          25.2      -0.457      -0.283       0.611
+50          16.1      -0.573      -0.355       0.639
+40          16.5      -0.682      -0.422       0.663
+18          35.9      -0.856      -0.530       0.702
+6           67.5      -0.926      -0.573       0.717
+24          53.7      -0.936      -0.580       0.719
+45          13.2      -1.247      -0.772       0.780
+41          17.5      -1.314      -0.813       0.792
+63          41.0      -1.326      -0.821       0.794
+17          10.9      -1.525      -0.944       0.827
+0           10.5      -1.566      -0.969       0.834
+37          23.5      -1.659      -1.027       0.848
+65          33.9      -1.699      -1.052       0.854
+42          17.9      -2.000      -1.238       0.892
+64          15.0      -2.082      -1.289       0.901
+3           14.7      -2.182      -1.351       0.912
+1           19.6      -2.184      -1.352       0.912
+61          90.0      -2.307      -1.428       0.923
+35          11.3      -2.376      -1.470       0.929
+66          94.9      -4.457      -2.759       0.997
+
+#====================================================
+

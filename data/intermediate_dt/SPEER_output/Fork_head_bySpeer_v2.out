@@ -1,0 +1,102 @@
+Rate4Site to be run using the executable at '.\rate4site.exe'.
+
+
+Input FASTA from file data-v2-without_pseudo_cluster/Fork_head-domain_MSA_sort.txt
+Number of columns in the alignment (== length of first sequence including gaps) = 86
+Number of rows in the alignment = 36
+
+partition of size 36 to be created.
+Partitioning the input alignment into 1 subfamilies.
+    Subfamily 1 consists of 36 rows; only columns with at most 20% gaps (<= 7) are analyzed.
+
+Speer scoring term weights:
+  Relative entropy term weight (-wRE)         = 1
+  Evolutionary distance term weight (-wEDist) = 1
+  Evolutionary rate term weight (-wERate)     = 1
+
+
+
+
+Fasta for subfamily 1 written to temporary file C:\Users\admin\AppData\Local\Temp\1hh4_in (it will be removed when SPEER terminates normally).
+Running 'rate4Site' for subfamily 0 (please wait; this may take a while...)
+    ... 'rate4Site' has finished for subfamily 0.
+
+#                  SPEER Results
+#====================================================
+# Column     %ID       Score      Z-score     P-value
+#====================================================
+
+83          13.3      -1.#IO      -1.#IO       1.#QO
+82          13.2      -1.#IO      -1.#IO       1.#QO
+81          10.6      -1.#IO      -1.#IO       1.#QO
+80          12.1      -1.#IO      -1.#IO       1.#QO
+79          10.3      -1.#IO      -1.#IO       1.#QO
+78          41.0      -1.#IO      -1.#IO       1.#QO
+77          41.4      -1.#IO      -1.#IO       1.#QO
+76          34.4      -1.#IO      -1.#IO       1.#QO
+75          28.7      -1.#IO      -1.#IO       1.#QO
+73          26.7      -1.#IO      -1.#IO       1.#QO
+72          35.2      -1.#IO      -1.#IO       1.#QO
+71          64.4      -1.#IO      -1.#IO       1.#QO
+69          74.8      -1.#IO      -1.#IO       1.#QO
+68          31.6      -1.#IO      -1.#IO       1.#QO
+67          13.3      -1.#IO      -1.#IO       1.#QO
+64          17.8      -1.#IO      -1.#IO       1.#QO
+63          36.7      -1.#IO      -1.#IO       1.#QO
+62          40.8      -1.#IO      -1.#IO       1.#QO
+61          62.4      -1.#IO      -1.#IO       1.#QO
+60          56.3      -1.#IO      -1.#IO       1.#QO
+59          20.3      -1.#IO      -1.#IO       1.#QO
+57          46.2      -1.#IO      -1.#IO       1.#QO
+56          24.3      -1.#IO      -1.#IO       1.#QO
+55          52.5      -1.#IO      -1.#IO       1.#QO
+54          89.2      -1.#IO      -1.#IO       1.#QO
+51          89.2      -1.#IO      -1.#IO       1.#QO
+48          71.4      -1.#IO      -1.#IO       1.#QO
+47          75.4      -1.#IO      -1.#IO       1.#QO
+45          48.7      -1.#IO      -1.#IO       1.#QO
+43          43.7      -1.#IO      -1.#IO       1.#QO
+42          22.4      -1.#IO      -1.#IO       1.#QO
+41          16.5      -1.#IO      -1.#IO       1.#QO
+40          26.7      -1.#IO      -1.#IO       1.#QO
+39          15.1      -1.#IO      -1.#IO       1.#QO
+38          45.6      -1.#IO      -1.#IO       1.#QO
+37          49.2      -1.#IO      -1.#IO       1.#QO
+36          58.7      -1.#IO      -1.#IO       1.#QO
+35          58.3      -1.#IO      -1.#IO       1.#QO
+34          45.6      -1.#IO      -1.#IO       1.#QO
+33          14.6      -1.#IO      -1.#IO       1.#QO
+32          21.7      -1.#IO      -1.#IO       1.#QO
+31          14.6      -1.#IO      -1.#IO       1.#QO
+30          36.3      -1.#IO      -1.#IO       1.#QO
+29          38.9      -1.#IO      -1.#IO       1.#QO
+28          17.8      -1.#IO      -1.#IO       1.#QO
+27          89.2      -1.#IO      -1.#IO       1.#QO
+26          94.4      -1.#IO      -1.#IO       1.#QO
+25          26.8      -1.#IO      -1.#IO       1.#QO
+24          40.5      -1.#IO      -1.#IO       1.#QO
+22          89.2      -1.#IO      -1.#IO       1.#QO
+21          43.2      -1.#IO      -1.#IO       1.#QO
+20          28.7      -1.#IO      -1.#IO       1.#QO
+19          43.2      -1.#IO      -1.#IO       1.#QO
+18          25.2      -1.#IO      -1.#IO       1.#QO
+17          60.5      -1.#IO      -1.#IO       1.#QO
+16          48.9      -1.#IO      -1.#IO       1.#QO
+15          22.2      -1.#IO      -1.#IO       1.#QO
+14          13.8      -1.#IO      -1.#IO       1.#QO
+13          94.4      -1.#IO      -1.#IO       1.#QO
+11          20.0      -1.#IO      -1.#IO       1.#QO
+10          27.8      -1.#IO      -1.#IO       1.#QO
+9           94.4      -1.#IO      -1.#IO       1.#QO
+8           84.3      -1.#IO      -1.#IO       1.#QO
+7           19.0      -1.#IO      -1.#IO       1.#QO
+6           42.2      -1.#IO      -1.#IO       1.#QO
+5           94.4      -1.#IO      -1.#IO       1.#QO
+4           70.6      -1.#IO      -1.#IO       1.#QO
+3           32.1      -1.#IO      -1.#IO       1.#QO
+2           61.3      -1.#IO      -1.#IO       1.#QO
+1           89.2      -1.#IO      -1.#IO       1.#QO
+0           37.6      -1.#IO      -1.#IO       1.#QO
+
+#====================================================
+
