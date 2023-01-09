@@ -1,0 +1,75 @@
+
+## 备用代码：恢复生成单个motif的pwm矩阵文件
+## 嵌入代码文件：1_data_collecting_processing_and_stat.r
+
+# tmp.fs.root <-  file.path(tf2dna.data.dir, 'dna_motifs')
+# tmp.fs <- list.files(tmp.fs.root, recursive = T, full.names = F)
+# 
+# for(i in tmp.fs){
+#   message(i)
+#   tmp.dt <- readLines(file.path(tmp.fs.root, i))
+#   tmp.dt.block.start <- which(grepl("^>", tmp.dt))
+#   tmp.dt.block.end <- c(tmp.dt.block.start[2:length(tmp.dt.block.start)]-1, length(tmp.dt) )
+#   tmp.dt.block.len <- tmp.dt.block.end - tmp.dt.block.start +1
+#   tmp.dt.split <- split(tmp.dt, f=rep(seq_along(tmp.dt.block.len), c(tmp.dt.block.len) ) )
+#   
+#   lapply(tmp.dt.split, function(x){
+#     motif.name = x[1]
+#     motif.name = stringr::str_replace(motif.name, ">", "")
+#     write.table(x, file.path(tmp.fs.root, "raw_singles", stringr::str_c(motif.name, ".txt")), quote=F, sep='\t', row.names = F, col.names = F)
+#   })
+#   
+# }
+
+## ```
+## 原始数据导入生成pwm list， 包括903个motif pwm matrix
+## 嵌入代码文件：1_data_collecting_processing_and_stat.r
+
+# motifs=tf2dna[tf2dna[,'DBDs']%in%tf.fam,"Motif_ID"]
+# length(motifs)
+# 
+# pwm.list=c()
+# for (i in 1:length(motifs)){
+# tmp.motif=motifs[i]
+# tmp.pwm.file=file.path("/public/biodata/2014/PDI/data/DNA/pwms",paste(tmp.motif,".txt",sep=""))
+# tmp.pwm.0=read.csv(tmp.pwm.file,sep="\t",header=T)
+# 
+# # remove the position index
+# tmp.pwm.1=t(tmp.pwm.0[,-1])
+# tmp.pwm.list=list(tmp.pwm.1)
+# names(tmp.pwm.list)=tmp.motif
+# pwm.list=c(pwm.list,tmp.pwm.list)
+# }
+
+
+## :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## ···
+## 处理SPEER结果数据
+
+# source('/public/users/luanyizhao/project/PDI/functions/final_functions.r')
+# library(stringr);library(ggplot2)
+# speer.dir = file.path('~/project/PDI/results/v6/SPEER_output')
+# tf.ref = read.table(file.path(data.dir,'../tf_domain_position.tsv'), header=T,sep='\t',as.is=T)
+# 
+# speer.score = list()
+# for(curr.tf.fam in unique(pdb.lst$TF_family)){
+#   cat(">>> ", curr.tf.fam, '\n')
+#   speer.tmp = readLines(file.path(speer.dir, str_c(curr.tf.fam, '_bySpeer_v2.out',sep='')))
+#   speer.tmp = speer.tmp[which(grepl('#======', speer.tmp))[1]:which(grepl('#======', speer.tmp))[length(which(grepl('#======', speer.tmp)))]]
+#   speer.content = speer.tmp[5:(length(speer.tmp)-2)]
+#   speer.content = t(sapply(speer.content, function(x){ str_split(x, '\\ +')[[1]]}))
+#   rownames(speer.content) = NULL
+#   colnames(speer.content) = c('column', 'identity', 'score', 'z_score', 'pval')
+#   speer.score[[curr.tf.fam]] = as.data.frame(speer.content, stringsAsFactors = F)
+# }
+# 
+# speer.score.c=NULL; for(i in names(speer.score)){ a= speer.score[[i]];  a$tf_fam = rep(i, nrow(a)); speer.score.c = rbind(speer.score.c,a)}
+# speer.score = speer.score.c; rm(speer.score.c)
+
+## :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
