@@ -6,7 +6,7 @@ Understanding the basis of the DNA-binding specificity of transcription factors 
 # Contact
 If you have any questions, pls contact us by:
 Yizhao Luan, luanyz_leo@outlook.com; 
-Zehua Tang, tangzh6@mail2.sys.edu.cn;
+Zehua Tang, tangzh6@mail2.sysu.edu.cn;
 Zhi Xie, zhi.xie@outlook.com.
 
 
